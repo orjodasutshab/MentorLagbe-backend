@@ -1,0 +1,1 @@
+{"name":"MentorLagbe REST API","stack":["Node.js","Express.js","MongoDB","REST API","JWT Authentication & Authorization","Stripe","ImgBB"],"status":"running","database":"mongodb","healthCheck":"/api/health"}
