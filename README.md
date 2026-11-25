@@ -3,15 +3,15 @@
 **Project Name:** MentorLagbe (Smart Tuition & Mentorship Platform)
 **Purpose:** Express + MongoDB REST API for a role-based tuition platform. Tutors post tuition batches, admins moderate them, students search and apply, and both tutors and students can upgrade to a Pro plan through Stripe.
 
-**Live Server URL:** `<add your deployed server link>`
-**Live Client URL:** `<add your deployed client link>`
-**Client Repository:** `<add your client repo link>`
+**Live Server URL:** `https://mentorlagbe-bd.vercel.app/`
+**Live Client URL:** `https://mentorlagbebd.vercel.app/`
+**Client Repository:** `https://github.com/orjodasutshab/MentorLagbe-frontend`
 
 ## Admin & Test Credentials
 | Role | Email | Password |
 | --- | --- | --- |
-| Admin | `admin@mentorlagbe.com` | `Admin@1234` |
-| Tutor (Pro) | `tutor@mentorlagbe.com` | `Tutor@1234` |
+| Admin | `admin@mentorlagbe.com` | `admin@123@` |
+| Tutor (Pro) | `tutor@gmail.com` | `tutor@123@` |
 | Tutor (Free) | `nusrat.tutor@mentorlagbe.com` | `Tutor@1234` |
 | Student (Free) | `student@mentorlagbe.com` | `Student@1234` |
 | Student (Pro) | `sadia.student@mentorlagbe.com` | `Student@1234` |
